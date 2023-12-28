@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\RexKa\\.nuget\\packages\\": {}
@@ -13,25 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RexKa\\Documents\\Rex-Utility-Website\\Rex-Galleria-Server\\Rex Galleria Server\\Rex Galleria Server\\Rex Galleria Server.csproj",
+      "projectUniqueName": "F:\\Sonk\\Rex-Galleria\\server\\Rex Galleria Server\\Rex Galleria Server.csproj",
       "projectName": "Rex Galleria Server",
-      "projectPath": "C:\\Users\\RexKa\\Documents\\Rex-Utility-Website\\Rex-Galleria-Server\\Rex Galleria Server\\Rex Galleria Server\\Rex Galleria Server.csproj",
+      "projectPath": "F:\\Sonk\\Rex-Galleria\\server\\Rex Galleria Server\\Rex Galleria Server.csproj",
       "packagesPath": "C:\\Users\\RexKa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RexKa\\Documents\\Rex-Utility-Website\\Rex-Galleria-Server\\Rex Galleria Server\\Rex Galleria Server\\obj\\",
+      "outputPath": "F:\\Sonk\\Rex-Galleria\\server\\Rex Galleria Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RexKa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -42,7 +43,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.0": {
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

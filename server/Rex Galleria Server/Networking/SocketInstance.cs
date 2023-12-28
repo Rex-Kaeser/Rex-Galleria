@@ -10,21 +10,17 @@ namespace Rex_Galleria_Server.Networking
 {
     class SocketInstance : WebSocketBehavior
     {
-
         bool unlocked = false;
         public void SendMessage(string message)
         {
         }
         protected override void OnMessage(MessageEventArgs e)
         {
-            string msg = System.Text.Encoding.UTF8.GetString(e.RawData);
             if (!unlocked)
             {
-                if (msg == Program.key)
-                {
-                    unlocked = true;
-                    Send("authenticated");
-                }
+                Console.WriteLine(e.Data);
+                string msg = Encryption.AESDecrypt(e.RawData);
+                Console.WriteLine(msg);
             }
         }
 

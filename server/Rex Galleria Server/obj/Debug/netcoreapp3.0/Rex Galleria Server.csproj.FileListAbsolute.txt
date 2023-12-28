@@ -12,3 +12,20 @@ C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Se
 C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.csproj.CopyComplete
 C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.dll
 C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.pdb
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\bin\Debug\netcoreapp3.0\Rex Galleria Server.exe
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\bin\Debug\netcoreapp3.0\Rex Galleria Server.deps.json
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\bin\Debug\netcoreapp3.0\Rex Galleria Server.runtimeconfig.json
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\bin\Debug\netcoreapp3.0\Rex Galleria Server.runtimeconfig.dev.json
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\bin\Debug\netcoreapp3.0\Rex Galleria Server.dll
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\bin\Debug\netcoreapp3.0\Rex Galleria Server.pdb
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\bin\Debug\netcoreapp3.0\websocket-sharp.dll
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\bin\Debug\netcoreapp3.0\websocket-sharp.xml
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.csproj.AssemblyReference.cache
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.AssemblyInfoInputs.cache
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.AssemblyInfo.cs
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.csproj.CoreCompileInputs.cache
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.csproj.CopyComplete
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.dll
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.pdb
+F:\Sonk\Rex-Galleria\server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.genruntimeconfig.cache
