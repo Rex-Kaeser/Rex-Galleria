@@ -1,0 +1,14 @@
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\bin\Debug\netcoreapp3.0\Rex Galleria Server.exe
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\bin\Debug\netcoreapp3.0\Rex Galleria Server.deps.json
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\bin\Debug\netcoreapp3.0\Rex Galleria Server.runtimeconfig.json
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\bin\Debug\netcoreapp3.0\Rex Galleria Server.runtimeconfig.dev.json
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\bin\Debug\netcoreapp3.0\Rex Galleria Server.dll
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\bin\Debug\netcoreapp3.0\Rex Galleria Server.pdb
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\bin\Debug\netcoreapp3.0\websocket-sharp.dll
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\bin\Debug\netcoreapp3.0\websocket-sharp.xml
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.csprojAssemblyReference.cache
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.AssemblyInfoInputs.cache
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.AssemblyInfo.cs
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.csproj.CopyComplete
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.dll
+C:\Users\RexKa\Documents\Rex-Utility-Website\Rex-Galleria-Server\Rex Galleria Server\Rex Galleria Server\obj\Debug\netcoreapp3.0\Rex Galleria Server.pdb

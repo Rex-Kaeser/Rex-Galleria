@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\RexKa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\RexKa\\.nuget\\packages"
+    ]
+  }
+}

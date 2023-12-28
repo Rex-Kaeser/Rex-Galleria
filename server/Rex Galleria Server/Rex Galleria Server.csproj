@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Rex_Galleria_Server</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="websocket-sharp">
+      <HintPath>..\packages\WebSocketSharp.1.0.3-rc11\lib\websocket-sharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
